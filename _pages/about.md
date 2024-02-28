@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral fellow at [](../images/CivMin_Logo.svg).
+I am currently a postdoctoral fellow at [University of Toronto](../images/CivMin_Logo.svg).
 
 I am a doctor in Transportation Engineering currently doing my post-doctoral fellowship at the University of Toronto. During my doctoral studies, I worked as a research assistant, at the Center for Infrastructure, Transportation and Environment at Rensselaer Polytechnic Institute.  My doctoral dissertation developed a mathematical model that minimizes the social cost of locating distribution centers while simultaneously assigning freight tours. My research was conducted under the supervision of Prof. Holguin-Veras. 
 

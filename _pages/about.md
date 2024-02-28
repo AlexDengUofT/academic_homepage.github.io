@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am currently a postdoctoral fellow at the Department of Civil and Mineral Engineering, <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/UofT_Logo2.jpg" style="vertical-align: middle; height: 12px;">. I got my Bachelor's degree in Traffic Engineering at <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/北京交通大学校标.png" style="vertical-align: middle; height: 12px;"> in 2018, and my PhD's degree in Transportation Engineering at  <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/同济大学校标.png" style="vertical-align: middle; height: 12px;"> in 2024.
+I am currently a postdoctoral fellow at the Department of Civil and Mineral Engineering, <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/UofT_Logo2.jpg" style="vertical-align: middle; height: 12px;">. I got my Bachelor's degree in Traffic Engineering at <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/北京交通大学校标2.png" style="vertical-align: middle; height: 12px;"> in 2018, and my PhD's degree in Transportation Engineering at  <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/同济大学校标2.png" style="vertical-align: middle; height: 12px;"> in 2024.
 
 
 My research 

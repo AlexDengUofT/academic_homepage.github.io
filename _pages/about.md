@@ -36,15 +36,14 @@ My research focuses on creating sustainable, advanced urban transportation syste
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJED</div><img src='images/IJDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Who are on the road? A study on vehicle usage characteristics based on one-week vehicle trajectory data](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2218117)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jihao Deng**, Yiqing Cui, Xiaohong Chen, Chris Bachmann, Quan Yuan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Understanding the characteristics of passenger vehicle use is the prerequisite for effective urban management. However, it has been challenging in the existing literature due to the lack of continuously observed data on passenger vehicle use. Thanks to the advances in data collection and processing techniques, multi-day vehicle trajectory data generated from volunteered passenger cars provide new opportunities for examining in depth how people travel in regular patterns. In this paper, based on a week's operation data of 6600 passenger cars in Shanghai, we develop a systematic approach for identifying trips and travel purposes, and classify vehicles into four categories using a Gaussian-Mixed-Model. A new method is proposed to identify vehicle travel regularities and we use the Z Test to explore differences in travel time and route choices between four types of vehicles. We find that commercially used vehicles present high travel intensity in temporal and spatial aspects and the use intensity in elevated roads is higher for household-used commuting vehicles than semi-commercially used vehicles. The methodologies and conclusions of this paper may provide not only theoretical support for future urban traffic prediction, but also guidance for employing customized active traffic demand management measures to alleviate traffic congestion. 
 </div>
 </div>
 

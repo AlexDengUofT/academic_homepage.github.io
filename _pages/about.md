@@ -17,6 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am currently a postdoctoral fellow at [](../images/CivMin_Logo.svg).
+
+I am a doctor in Transportation Engineering currently doing my post-doctoral fellowship at the University of Toronto. During my doctoral studies, I worked as a research assistant, at the Center for Infrastructure, Transportation and Environment at Rensselaer Polytechnic Institute.  My doctoral dissertation developed a mathematical model that minimizes the social cost of locating distribution centers while simultaneously assigning freight tours. My research was conducted under the supervision of Prof. Holguin-Veras. 
+
+My line of research aims to foster transportation systems and supply chains in which efficiency, livability, and environmental objectives are achieved. To do so, I research the interconnections among urban economies, land-use and transportation systems, and supply chains; to identify ways to foster economic efficiency, sustainability, quality of life, and environmental justice. 
+
+
+
+
+
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).

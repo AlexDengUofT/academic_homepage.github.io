@@ -18,17 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Guided by Professor Eric Miller, I am a postdoctoral fellow at the [Mobility Network](https://www.mobilitynetwork.utoronto.ca/), *Department of Civil and Mineral Engineering, University of Toronto*. I earned my Bachelor's in Traffic Engineering from *Beijing Jiaotong University* (北京交通大学) in 2018 and my PhD in Transportation Engineering from *Tongji University* (同济大学) in 2024. Between 2022 and 2023, I also served as a visiting scholar at the *University of Waterloo*, supervised by Professors [Liping Fu](https://uwaterloo.ca/civil-environmental-engineering/profile/lfu) and [Chris Bachmann](https://uwaterloo.ca/civil-environmental-engineering/profile/c2bachma).
+Guided by Professor [Eric Miller](https://civmin.utoronto.ca/home/about-us/directory/professors/eric-miller/), I am a postdoctoral fellow at the [Mobility Network](https://www.mobilitynetwork.utoronto.ca/), *Department of Civil and Mineral Engineering, University of Toronto*. I earned my Bachelor's in Traffic Engineering from *Beijing Jiaotong University* (北京交通大学) in 2018 and my PhD in Transportation Engineering from *Tongji University* (同济大学) in 2024. Between 2022 and 2023, I also served as a visiting scholar at the *University of Waterloo*, supervised by Professors [Liping Fu](https://uwaterloo.ca/civil-environmental-engineering/profile/lfu) and [Chris Bachmann](https://uwaterloo.ca/civil-environmental-engineering/profile/c2bachma).
 
-My doctoral dissertation developed a mathematical model that minimizes the social cost of locating distribution centers while simultaneously assigning freight tours. My research was conducted under the supervision of Prof. Holguin-Veras. 
+Addressing the formidable challenge of effectively mitigating traffic congestion in metropolitan cities, my doctoral dissertation focuses on leveraging passenger electric vehicles in Shanghai, along with their extensive, continuous trajectories. I introduced a novel methodology to conceptualize and assess the adjustability of vehicle trips, and pioneered differential and targeted strategies for managing vehicle travel demand, grounded in an advanced route choice model. This research was conducted under the supervision of Professor [Xiaohong Chen](https://www.researchgate.net/profile/Xiaohong-Chen-5) and [Quan Yuan](https://www.researchgate.net/profile/Quan-Yuan-40).
 
-
-
-My research 
-
-I am a doctor in Transportation Engineering currently doing my post-doctoral fellowship at the University of Toronto. During my doctoral studies, I worked as a research assistant, at the Center for Infrastructure, Transportation and Environment at Rensselaer Polytechnic Institute.  My doctoral dissertation developed a mathematical model that minimizes the social cost of locating distribution centers while simultaneously assigning freight tours. My research was conducted under the supervision of Prof. Holguin-Veras. 
-
-My line of research aims to foster transportation systems and supply chains in which efficiency, livability, and environmental objectives are achieved. To do so, I research the interconnections among urban economies, land-use and transportation systems, and supply chains; to identify ways to foster economic efficiency, sustainability, quality of life, and environmental justice. 
+My research focuses on creating sustainable, advanced urban transportation systems and communities. It involves analyzing individual travel behavior, modeling travel demand, and studying transportation-land use interactions. I specialize in urban analytics, utilizing GIS, big data, spatial and econometric modeling, machine learning, and freight and logistics are my primary interests.
 
 
 

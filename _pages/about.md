@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am currently a postdoctoral fellow at the Department of Civil and Mineral Engineering, <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/UofT_Logo2.jpg" height="15px">. I got my 
+I am currently a postdoctoral fellow at the Department of Civil and Mineral Engineering, <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/UofT_Logo2.jpg" style="vertical-align: middle; height: 12px;">. I got my 
 
 
 My research 

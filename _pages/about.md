@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+Guided by Professor Eric Miller, I am a postdoctoral fellow at the [Mobility Network](https://www.mobilitynetwork.utoronto.ca/), *Department of Civil and Mineral Engineering, University of Toronto*. I earned my Bachelor's in Traffic Engineering from *Beijing Jiaotong University* (北京交通大学) in 2018 and my PhD in Transportation Engineering from *Tongji University* (同济大学) in 2024. Between 2022 and 2023, I also served as a visiting scholar at the *University of Waterloo*, supervised by Professors [Liping Fu](https://uwaterloo.ca/civil-environmental-engineering/profile/lfu) and [Chris Bachmann](https://uwaterloo.ca/civil-environmental-engineering/profile/c2bachma).
 
-I am currently working as a postdoctoral fellow at the [Mobility Network](https://www.mobilitynetwork.utoronto.ca/), *Department of Civil and Mineral Engineering, University of Toronto*. I got my Bachelor's in Traffic Engineering at *Beijing Jiaotong University* (北京交通大学) in 2018 and my PhD in Transportation Engineering at *Tongji University* (同济大学) in 2024.
-
+My doctoral dissertation developed a mathematical model that minimizes the social cost of locating distribution centers while simultaneously assigning freight tours. My research was conducted under the supervision of Prof. Holguin-Veras. 
 
 
 

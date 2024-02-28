@@ -36,7 +36,7 @@ My research focuses on creating sustainable, advanced urban transportation syste
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJED</div><img src='images/IJDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Digital Earth</div><img src='images/IJDE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Who are on the road? A study on vehicle usage characteristics based on one-week vehicle trajectory data](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2218117)
@@ -46,6 +46,23 @@ My research focuses on creating sustainable, advanced urban transportation syste
 - Understanding the characteristics of passenger vehicle use is the prerequisite for effective urban management. However, it has been challenging in the existing literature due to the lack of continuously observed data on passenger vehicle use. Thanks to the advances in data collection and processing techniques, multi-day vehicle trajectory data generated from volunteered passenger cars provide new opportunities for examining in depth how people travel in regular patterns. In this paper, based on a week's operation data of 6600 passenger cars in Shanghai, we develop a systematic approach for identifying trips and travel purposes, and classify vehicles into four categories using a Gaussian-Mixed-Model. A new method is proposed to identify vehicle travel regularities and we use the Z Test to explore differences in travel time and route choices between four types of vehicles. We find that commercially used vehicles present high travel intensity in temporal and spatial aspects and the use intensity in elevated roads is higher for household-used commuting vehicles than semi-commercially used vehicles. The methodologies and conclusions of this paper may provide not only theoretical support for future urban traffic prediction, but also guidance for employing customized active traffic demand management measures to alleviate traffic congestion. 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Public Transportation</div><img src='images/JPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Financial sustainability versus social equity: Design and performance of a hybrid city bus system]([https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2218117](https://www.sciencedirect.com/science/article/pii/S1077291X2300005X))
+
+**Jihao Deng**, Peng Chen, Xiaohong Chen, Tianhao Li, Quan Yuan
+
+- Many city bus systems have gone through crises - dropping ridership and unsustained finance - across countries over the past decades. Previous studies revealed that despite the soaring public subsidies on traditional bus services, the quality of bus services was unimproved and the responses to demand changes remained sluggish. A large number of bus users were, consequently, shifted to other transport modes, leading to a steady ridership decline which further worsens transit agencies’ financial condition. To deal with the dilemma, we integrate market-based customized bus services (MCBSs) into the traditional bus systems and propose a hybrid city bus model. Using data from Shanghai, China, we found that the MCBS had effectively responded to changing demand and achieved substantial ridership growth, maintained a healthy financial status, and provided social benefits to the transportation system. The success of MCBSs in Shanghai proves that the public transit system still has great potential and could be demand-responsive and financially sustainable at the same time. In the meantime, MCBSs have significantly helped improve transport equity in suburban areas. The hybrid city bus model can serve as a reference for different cities to reorganize their bus systems and regain the popularity, vitality, and social equity of bus services. 
+</div>
+</div>
+
+
+
+
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 

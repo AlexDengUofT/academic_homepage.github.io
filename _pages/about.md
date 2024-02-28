@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am currently working as a postdoctoral fellow at the [Mobility Network](https://www.mobilitynetwork.utoronto.ca/), *Department of Civil and Mineral Engineering, University of Toronto*. I got my Bachelor's in Traffic Engineering at *Beijing Jiaotong University* in 2018 and my PhD in Transportation Engineering at *Tongji University* in 2024.
+I am currently working as a postdoctoral fellow at the [Mobility Network](https://www.mobilitynetwork.utoronto.ca/), *Department of Civil and Mineral Engineering, University of Toronto*. I got my Bachelor's in Traffic Engineering at *Beijing Jiaotong University* (北京交通大学) in 2018 and my PhD in Transportation Engineering at *Tongji University* (同济大学) in 2024.
 
 
 

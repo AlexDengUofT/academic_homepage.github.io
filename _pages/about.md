@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-I am currently a postdoctoral fellow at the Department of Civil and Mineral Engineering, <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/UofT_Logo.jpg" width="100px"/>. My research 
+I am currently a postdoctoral fellow at the Department of Civil and Mineral Engineering, <img src="https://github.com/AlexDengUofT/academic_homepage.github.io/blob/main/images/UofT_Logo.jpg" height="20px"/>. My research 
 
 I am a doctor in Transportation Engineering currently doing my post-doctoral fellowship at the University of Toronto. During my doctoral studies, I worked as a research assistant, at the Center for Infrastructure, Transportation and Environment at Rensselaer Polytechnic Institute.  My doctoral dissertation developed a mathematical model that minimizes the social cost of locating distribution centers while simultaneously assigning freight tours. My research was conducted under the supervision of Prof. Holguin-Veras. 
 

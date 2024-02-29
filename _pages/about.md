@@ -49,7 +49,7 @@ Quan Yuan, Ruixu Pan, **Jihao Deng** (Corresponding Author), Tianhao Li, and Xia
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Digital Earth</div><img src='images/IJDE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Digital Earth</div><img src='images/IJDE2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Who are on the road? A study on vehicle usage characteristics based on one-week vehicle trajectory data](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2218117)

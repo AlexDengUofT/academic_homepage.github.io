@@ -43,7 +43,7 @@ My research focuses on creating sustainable, advanced urban transportation syste
 
 [Multi-scenario Route Choice Modeling Based on Random Parameters Multinomial Logit Model with Heterogeneity in Means and Variance](https://ieeexplore.ieee.org/document/10422380)
 
-Quan Yuan, Ruixu Pan, **Jihao Deng** (Corresponding Author), Tianhao Li, and Xiaohong Chen
+Quan Yuan, Ruixu Pan, **Jihao Deng***, Tianhao Li, and Xiaohong Chen
 
 </div>
 </div>
@@ -54,7 +54,7 @@ Quan Yuan, Ruixu Pan, **Jihao Deng** (Corresponding Author), Tianhao Li, and Xia
 
 [Who are on the road? A study on vehicle usage characteristics based on one-week vehicle trajectory data](https://www.tandfonline.com/doi/full/10.1080/17538947.2023.2218117)
 
-**Jihao Deng**, Yiqing Cui, Xiaohong Chen, Chris Bachmann, and Quan Yuan
+**Jihao Deng**, Yiqing Cui, Xiaohong Chen, Chris Bachmann, and Quan Yuan*
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Quan Yuan, Ruixu Pan, **Jihao Deng** (Corresponding Author), Tianhao Li, and Xia
 
 [Financial sustainability versus social equity: Design and performance of a hybrid city bus system](https://www.sciencedirect.com/science/article/pii/S1077291X2300005X)
 
-**Jihao Deng**, Peng Chen, Xiaohong Chen, Tianhao Li, and Quan Yuan
+**Jihao Deng**, Peng Chen, Xiaohong Chen, Tianhao Li, and Quan Yuan*
 
 </div>
 </div>
@@ -75,7 +75,7 @@ Quan Yuan, Ruixu Pan, **Jihao Deng** (Corresponding Author), Tianhao Li, and Xia
 
 [Taking the same route every day? An empirical investigation of commuting route stability using personal electric vehicle trajectory data](https://link.springer.com/article/10.1007/s11116-023-10377-1)
 
-**Jihao Deng**, Lei Gao, Xiaohong Chen, and Quan Yuan
+**Jihao Deng**, Lei Gao, Xiaohong Chen, and Quan Yuan*
 
 </div>
 </div>
@@ -86,7 +86,7 @@ Quan Yuan, Ruixu Pan, **Jihao Deng** (Corresponding Author), Tianhao Li, and Xia
 
 [Integrated design of station sites and network of bus microcirculation system in open communities (开放式小区公交微循环站点与线网综合设计)](https://jdxb.bjtu.edu.cn/EN/10.11860/j.issn.1673-0291.20190071)
 
-**Jihao Deng**, Rui Song, Xiaohong Chen, Tianshi Wang, and Baihao Wang
+**Jihao Deng**, Rui Song, Xiaohong Chen*, Tianshi Wang, and Baihao Wang
 
 </div>
 </div>
@@ -98,7 +98,7 @@ Quan Yuan, Ruixu Pan, **Jihao Deng** (Corresponding Author), Tianhao Li, and Xia
 
 [Footprints of goods movements: Spatial heterogeneity of heavy-duty truck activities and its influencing factors in the urban context](https://www.sciencedirect.com/science/article/pii/S0966692323002090)
 
-Zhiwei Yang, Xiaohong Chen, **Jihao Deng**, Tianhao Li, and Quan Yuan
+Zhiwei Yang, Xiaohong Chen, **Jihao Deng**, Tianhao Li, and Quan Yuan*
 
 </div>
 </div>

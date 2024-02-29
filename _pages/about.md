@@ -24,7 +24,7 @@ Addressing the formidable challenge of effectively mitigating traffic congestion
 
 My research focuses on creating sustainable, advanced urban transportation systems and communities. It involves **analyzing individual travel behavior**, **modeling travel demand**, and **studying transportation-land use interactions**. I specialize in urban analytics, utilizing GIS, big data, spatial and econometric modeling, machine learning, and **freight and logistics activities are my primary interests**.
 
-<br></br>
+<br>
 
 
 # EDUCATION
@@ -33,7 +33,8 @@ My research focuses on creating sustainable, advanced urban transportation syste
 - *2018.04 - 2018.06*, Visiting Student, University of Maryland, USA.
 - *2016.07 - 2016.08*, Visiting Student, University of California, Berkeley, USA.
 - *2014.09 - 2018.06*, Undergraduate, Beijing Jiaotong University, China.
-<br></br>
+- 
+<br>
 
 
 # PUBLICATIONS

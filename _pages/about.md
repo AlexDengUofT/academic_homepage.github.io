@@ -35,7 +35,7 @@ My research focuses on creating sustainable, advanced urban transportation syste
 <be></br>
 
 
-# 📝 PUBLICATIONS
+# PUBLICATIONS
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSC</div><img src='images/ITSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

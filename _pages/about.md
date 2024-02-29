@@ -114,8 +114,8 @@ Peng Chen and **Jihao Deng**
 </div>
 
 
-- **Deng, J.**, Chen, X., and Ma, L. (2020). Analysis of the Impact of Traffic Analysis Zones Division on Traffic Assignment. Proceedings of 20th COTA International Conference of Transportation Professionals (EI), Xi’an, China. https://doi.org/10.1061/9780784482933.218.
-- **Deng, J.**, Bachmann, C., Yuan, Q.*, and Shangguan, Q. (2023). The geography of the demand for electric logistic vehicles in the era of E-commerce: Evidence from Shanghai. Proceedings of 8th Conference on Spatial Knowledge and Information, Banff, Canada. Volume DOI: 10.17605/OSF.IO/N6DU5.
+- **Deng, J.**, Chen, X., and Ma, L. (2020). Analysis of the Impact of Traffic Analysis Zones Division on Traffic Assignment. Proceedings of 20th COTA International Conference of Transportation Professionals (EI), Xi’an, China. [https://doi.org/10.1061/9780784482933.218](https://doi.org/10.1061/9780784482933.218).
+- **Deng, J.**, Bachmann, C., Yuan, Q.*, and Shangguan, Q. (2023). The geography of the demand for electric logistic vehicles in the era of E-commerce: Evidence from Shanghai. Proceedings of 8th Conference on Spatial Knowledge and Information, Banff, Canada. Volume DOI: [10.17605/OSF.IO/N6DU5](https://osf.io/n6du5/).
 - **Deng, J.**, Bachmann. C., Gao, L.*, and Shangguan Q. (2023). Who are on the urban expressway? An exploratory analysis between two passenger vehicle usage patterns based on the panel binomial logistic regression model. Proceedings of the 58th Annual Canadian Transportation Research Forum (CTRF) Conference, Toronto, Canada.
 - **Deng, J.**, Li, T., Bachmann, C., Gao, L.*, and Chen, X. (2023). Discovering Route Choice Preferences and Classifying Route Choice Behavior Using Trajectory Data. Proceedings of 16th World Conference on Transportation Research, Montreal, Canada.
 - **Deng, J.**, Bachmann, C., Shangguan Q., and Yuan, Q*. (2023). Are route stabilities the same when go to and get off work? An empirical investigation on route choices using personal vehicle trajectory data. Proceedings of Young Researcher’s 16th World Conference on Transportation Research, Montreal, Canada.

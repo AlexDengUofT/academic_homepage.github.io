@@ -24,6 +24,7 @@ Addressing the formidable challenge of effectively mitigating traffic congestion
 
 My research focuses on creating sustainable, advanced urban transportation systems and communities. It involves **analyzing individual travel behavior**, **modeling travel demand**, and **studying transportation-land use interactions**. I specialize in urban analytics, utilizing GIS, big data, spatial and econometric modeling, machine learning, and **freight and logistics activities are my primary interests**.
 
+<br></br>
 
 
 # EDUCATION

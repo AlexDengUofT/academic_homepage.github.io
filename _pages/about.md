@@ -26,7 +26,7 @@ My research focuses on creating sustainable, advanced urban transportation syste
 
 
 
-# 📖 Educations
+# 📖 EDUCATION
 - *2022.07 - 2023.12*, Visiting Researcher, University of Waterloo, Canada.
 - *2018.09 - 2024.01*, Doctor, Tongji University, China.
 - *2018.04 - 2018.06*, Visiting Student, University of Maryland, USA.
@@ -34,7 +34,7 @@ My research focuses on creating sustainable, advanced urban transportation syste
 - *2014.09 - 2018.06*, Undergraduate, Beijing Jiaotong University, China.
 
 
-# 📝 Publications
+# 📝 PUBLICATIONS
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSC</div><img src='images/ITSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

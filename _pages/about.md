@@ -32,7 +32,7 @@ My research focuses on creating sustainable, advanced urban transportation syste
 - *2018.04 - 2018.06*, Visiting Student, University of Maryland, USA.
 - *2016.07 - 2016.08*, Visiting Student, University of California, Berkeley, USA.
 - *2014.09 - 2018.06*, Undergraduate, Beijing Jiaotong University, China.
-<be></br>
+<br></br>
 
 
 # PUBLICATIONS

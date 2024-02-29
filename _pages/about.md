@@ -24,6 +24,8 @@ Addressing the formidable challenge of effectively mitigating traffic congestion
 
 My research focuses on creating sustainable, advanced urban transportation systems and communities. It involves **analyzing individual travel behavior**, **modeling travel demand**, and **studying transportation-land use interactions**. I specialize in urban analytics, utilizing GIS, big data, spatial and econometric modeling, machine learning, and **freight and logistics activities are my primary interests**.
 
+You could download my personal resume [HERE](../assets/CV_Jihao_Deng.pdf).
+
 <br>
 
 
@@ -112,7 +114,8 @@ Zhiwei Yang, Xiaohong Chen, **Jihao Deng**, Tianhao Li, and Quan Yuan*
 
 Peng Chen and **Jihao Deng**
 
-
+</div>
+</div>
 
 
 <br>
